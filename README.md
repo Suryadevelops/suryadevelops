@@ -32,6 +32,7 @@
 - swelte
 - Vs code extesnion development
 - Datadog
+- Deno
 
 ### ⚡ Technologies i know
 
