@@ -33,7 +33,7 @@
 - Vs code extesnion development
 - Datadog
 
-### 👨‍💻 Soft skills
+### ⚡ Technologies i know
 
 - Docker
 - React
