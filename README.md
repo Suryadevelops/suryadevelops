@@ -41,6 +41,6 @@
 - HTML/CSS
 - Firebase aws
 
-### About
+### Startup
 
-Full stack webdeveloper work with technologies like react and docker and more# suryadevelops
+Building my new startup HappyDezire where resellers can sell there products online 
