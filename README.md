@@ -7,7 +7,7 @@
 <br />
 <br />
 
-## I'm a 14 year old Full-Stack Software engineer and a startup CTO
+## I'm a 14 year old Full-Stack Software engineer 
 
 
 ### ⚒ What I'm doing 
@@ -17,6 +17,7 @@
 - Learning python and Django
 - Going to school 🤣
 - Making my personal site
+- Building my new startup
 
 ### 👨‍💻 Technologies want to learn in 2021
 
