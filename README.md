@@ -4,9 +4,6 @@
 
 <br/>
 
-<br />
-<br />
-
 ## I'm a 14 year old Full-Stack Software engineer 
 
 
