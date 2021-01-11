@@ -38,6 +38,3 @@
 - HTML/CSS
 - Firebase aws
 
-### Startup
-
-Building my new startup HappyDezire where resellers can sell there products online 
