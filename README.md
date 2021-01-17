@@ -12,7 +12,6 @@
 - Working on my statup with my friend a online store where resellers can display there products and sell it online
 - Contributung to open source
 - Learning python and Django
-- Going to school 🤣
 - Making my personal site
 - Building my new startup
 
