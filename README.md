@@ -22,7 +22,6 @@
 - Typeorm
 - Python
 - swelte
-- Vs code extesnion development
 - Datadog
 - Deno
 
