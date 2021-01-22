@@ -36,4 +36,6 @@
 - HTML/CSS
 - Firebase aws
 
-THANK YOU
+---
+
+[![surya's github stats](https://github-readme-stats.vercel.app/api?username=Suryadevelops)](https://github.com/anuraghazra/github-readme-stats)
