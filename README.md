@@ -38,4 +38,8 @@
 
 ---
 
-[![surya's github stats](https://github-readme-stats.vercel.app/api?username=Suryadevelops)](https://github.com/anuraghazra/github-readme-stats)
+![Surya's github stats](https://github-readme-stats.vercel.app/api?username=Suryadevelopsa&show_icons=true&theme=radical)
+
+---
+
+Thanks
