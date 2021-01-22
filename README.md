@@ -38,7 +38,7 @@
 
 ---
 
-![Surya's github stats](https://github-readme-stats.vercel.app/api?username=Suryadevelopsa&show_icons=true&theme=radical)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Suryadevelops&show_icons=true&theme=radical)
 
 ---
 
