@@ -46,7 +46,7 @@
 
 ---
 
-[![Suryadevelops's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Suryadevelops)](https://github.com/anuraghazra/github-readme-stats)
+[![SuryaDevlop's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=SuryaDevlops)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ---
