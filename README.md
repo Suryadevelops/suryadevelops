@@ -9,8 +9,7 @@
 
 ### ⚒ What I'm doing 
 
-- Working on my statup with my friend a online store where resellers can display there products and sell it online
-- Contributung to open source
+- Contributung to open source on a meaning full way
 - Learning python and Django
 - Making my personal site
 - Building my new startup
@@ -18,8 +17,8 @@
 ### 👨‍💻 Technologies want to learn in 2021
 
 - Kubernates
-- Postgres
-- Typeorm
+- Postgres - Done
+- Typeorm - Done
 - Python
 - swelte
 - Datadog
@@ -36,6 +35,12 @@
 - HTML/CSS
 - Firebase aws
 
+---
+Contributions
+
+Till now nothing big some small ones.
+
+---
 ---
 
 ![Surya's github stats](https://github-readme-stats.vercel.app/api?username=Suryadevelops&show_icons=true&theme=radical)
