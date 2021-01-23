@@ -34,12 +34,14 @@
 - JavaScript
 - HTML/CSS
 - Firebase aws
+---
+Taking some break now feeling stress no coding this week but contributing to some non codeing stuffs
+---
 
 ---
 Contributions
 
 Till now nothing big some small ones.
-
 ---
 ---
 
