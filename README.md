@@ -45,8 +45,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Suryadevelops&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
-
-[![SuryaDevelops's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=SuryaDevelops)](https://github.com/anuraghazra/github-readme-stats)
+[![Surya's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=suryadevelops)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
