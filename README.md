@@ -49,9 +49,7 @@ Till now nothing big some small ones.
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Suryadevelops&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
-[![Surya's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=suryadevelops)](https://github.com/anuraghazra/github-readme-stats)
 
----
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Suryadevelops&repo=suryadevelops)](https://github.com/anuraghazra/github-readme-stats)
 
