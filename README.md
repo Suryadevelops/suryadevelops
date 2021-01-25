@@ -53,6 +53,6 @@ Till now nothing big some small ones.
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Suryadevelops&repo=suryadevelops)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
-[![Surya's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Suryadevelops)](https://github.com/anuraghazra/github-readme-stats)
+[![Suryadevelops's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=suryadevelops)](https://github.com/anuraghazra/github-readme-stats)
 ---
 Thanks
