@@ -2,8 +2,6 @@
 
 💻 Always coding
 
-<br/>
-
 ## I'm a 14 year old Full-Stack Software engineer 
 
 
@@ -17,8 +15,6 @@
 ### 👨‍💻 Technologies want to learn in 2021
 
 - Kubernates
-- Postgres - Done
-- Typeorm - Done
 - Python
 - swelte
 - Datadog
@@ -33,7 +29,11 @@
 - React native
 - JavaScript
 - HTML/CSS
-- Firebase aws
+- Firebase and  aws
+- Postgres 
+- Typeorm 
+
+
 ---
 ---
 Contributions
