@@ -55,4 +55,4 @@ Till now nothing big some small ones.
 ---
 [![Suryadevelops's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=suryadevelops)](https://github.com/anuraghazra/github-readme-stats)
 ---
-Thanks
+Thanks for reading follow me to copy my code😉
