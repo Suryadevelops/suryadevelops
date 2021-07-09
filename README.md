@@ -2,7 +2,7 @@
 
 💻 Always coding
 
-## I'm a 14 year old Full-Stack Software engineer 
+## I'm a Full-Stack Software engineer 
 
 
 ### ⚒ What I'm doing 
@@ -10,7 +10,6 @@
 - Contributung to open source on a meaning full way
 - Learning python and Django
 - Making my personal site
-- Building my new startup
 
 ### 👨‍💻 Technologies want to learn in 2021
 
